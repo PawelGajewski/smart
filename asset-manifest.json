@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PawelGajewski/smart.git/static/css/main.2a3708e0.chunk.css",
+    "main.js": "/PawelGajewski/smart.git/static/js/main.f0c1fed7.chunk.js",
+    "main.js.map": "/PawelGajewski/smart.git/static/js/main.f0c1fed7.chunk.js.map",
+    "runtime-main.js": "/PawelGajewski/smart.git/static/js/runtime-main.dfc89786.js",
+    "runtime-main.js.map": "/PawelGajewski/smart.git/static/js/runtime-main.dfc89786.js.map",
+    "static/js/2.76982bce.chunk.js": "/PawelGajewski/smart.git/static/js/2.76982bce.chunk.js",
+    "static/js/2.76982bce.chunk.js.map": "/PawelGajewski/smart.git/static/js/2.76982bce.chunk.js.map",
+    "static/js/3.f95e6787.chunk.js": "/PawelGajewski/smart.git/static/js/3.f95e6787.chunk.js",
+    "static/js/3.f95e6787.chunk.js.map": "/PawelGajewski/smart.git/static/js/3.f95e6787.chunk.js.map",
+    "index.html": "/PawelGajewski/smart.git/index.html",
+    "static/css/main.2a3708e0.chunk.css.map": "/PawelGajewski/smart.git/static/css/main.2a3708e0.chunk.css.map",
+    "static/js/2.76982bce.chunk.js.LICENSE.txt": "/PawelGajewski/smart.git/static/js/2.76982bce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc89786.js",
+    "static/js/2.76982bce.chunk.js",
+    "static/css/main.2a3708e0.chunk.css",
+    "static/js/main.f0c1fed7.chunk.js"
+  ]
+}
